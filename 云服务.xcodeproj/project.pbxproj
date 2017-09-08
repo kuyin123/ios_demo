@@ -395,7 +395,7 @@
 				TargetAttributes = {
 					1D6058900D05DD3D006BFB54 = {
 						DevelopmentTeam = 2U2HS478VU;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -524,7 +524,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				COPY_PHASE_STRIP = NO;
 				DEVELOPMENT_TEAM = 2U2HS478VU;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -542,7 +542,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ionicframework.sipapp202440;
 				PRODUCT_NAME = "云服务";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "37dff648-5f1d-45dd-904e-5a2cb10dc70b";
+				PROVISIONING_PROFILE_SPECIFIER = "XC iOS: *";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -556,7 +557,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				COPY_PHASE_STRIP = YES;
 				DEVELOPMENT_TEAM = 2U2HS478VU;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -572,7 +573,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ionicframework.sipapp202440;
 				PRODUCT_NAME = "云服务";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "37dff648-5f1d-45dd-904e-5a2cb10dc70b";
+				PROVISIONING_PROFILE_SPECIFIER = "XC iOS: *";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
