@@ -1,0 +1,15 @@
+
+<plist version="1.0">
+<dict>
+        <key>teamID</key>
+        <string>2U2HS478VU</string>
+        <key>method</key>
+        <string>ad-hoc</string>
+        <key>uploadSymbols</key>
+        <true/>
+        <key>compileBitcode</key>
+        <false/>
+        <key>uploadBitcode</key>
+        <false/>
+</dict>
+</plist>

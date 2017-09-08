@@ -1,0 +1,50 @@
+[
+  {
+    "file": "assets/fonts/ionicons.woff",
+    "hash": "81414686e99c00d2921e03dd53c0ab04"
+  },
+  {
+    "file": "assets/fonts/ionicons.woff2",
+    "hash": "311d81961c5880647fec7eaca1221b2a"
+  },
+  {
+    "file": "assets/icon/favicon.ico",
+    "hash": "0350f4b3a2067110b1e642ee5931a38a"
+  },
+  {
+    "file": "assets/updateWWW.js",
+    "hash": "ed4f8856ce7e87d234858d12422979a6"
+  },
+  {
+    "file": "build/main.css",
+    "hash": "58ec8d08b9ea0fc80d17196ab0563bab"
+  },
+  {
+    "file": "build/main.js",
+    "hash": "c04c8bd7d6e4278d5b5958a2d7090a93"
+  },
+  {
+    "file": "build/polyfills.js",
+    "hash": "cdb289d3a60d7aa4b10424dbe2cd76c4"
+  },
+  {
+    "file": "build/sw-toolbox.js",
+    "hash": "2770efb889cc10c4de88d0b746c2a13c"
+  },
+  {
+    "file": "build/vendor.js",
+    "hash": "de9a203fec7a87f7f4934c5e1b59dda2"
+  },
+  {
+    "file": "index.html",
+    "hash": "c378d50d3c065a335ac7149eb1d40558"
+  },
+  {
+    "file": "manifest.json",
+    "hash": "df9b99468d4bd4cf2fee5d24ed9badbf"
+  },
+  {
+    "file": "service-worker.js",
+    "hash": "03a7c709333c4ab0450b0fc2a244ff07"
+  }
+]
